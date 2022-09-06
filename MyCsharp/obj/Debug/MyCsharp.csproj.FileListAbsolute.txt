@@ -1,0 +1,12 @@
+C:\Users\canc\RiderProjects\MyCsharp\MyCsharp\bin\Debug\MyCsharp.exe
+C:\Users\canc\RiderProjects\MyCsharp\MyCsharp\bin\Debug\MyCsharp.pdb
+C:\Users\canc\RiderProjects\MyCsharp\MyCsharp\obj\Debug\MyCsharp.csproj.AssemblyReference.cache
+C:\Users\canc\RiderProjects\MyCsharp\MyCsharp\obj\Debug\MyCsharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\canc\RiderProjects\MyCsharp\MyCsharp\obj\Debug\MyCsharp.csproj.CoreCompileInputs.cache
+C:\Users\canc\RiderProjects\MyCsharp\MyCsharp\obj\Debug\MyCsharp.exe
+C:\Users\canc\RiderProjects\MyCsharp\MyCsharp\obj\Debug\MyCsharp.pdb
+C:\Users\canc\RiderProjects\MyCsharp\MyCsharp\bin\Debug\nunit.framework.dll
+C:\Users\canc\RiderProjects\MyCsharp\MyCsharp\bin\Debug\nunit.framework.xml
+C:\Users\canc\RiderProjects\MyCsharp\MyCsharp\obj\Debug\MyCsharp.csproj.CopyComplete
+C:\Users\canc\RiderProjects\MyCsharp\MyCsharp\obj\Debug\MyCsharp.UI.MyForm.resources
+C:\Users\canc\RiderProjects\MyCsharp\MyCsharp\obj\Debug\MyCsharp.csproj.GenerateResource.cache
